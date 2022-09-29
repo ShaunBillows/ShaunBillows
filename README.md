@@ -1,6 +1,4 @@
-<div align="center">
-<h1 align="center">Hi there, I'm Shaun <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
-</div>
+### Hi there, I'm Shaun 👋
 
 * 🌱 I’m currently learning **Everything**
 
