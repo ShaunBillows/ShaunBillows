@@ -1,10 +1,14 @@
-### Hi there, I'm Shaun 👋
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shaun</h1>
+</div>
 
-- 🌱 I’m currently learning **Everything**
+* 🌱 I’m currently learning **Everything**
 
-- 🔥 Check out [My First Full Stack Application](https://trade-war-z.netlify.app/)
+* 🔥 Check out [My First Full Stack Application](https://trade-war-z.netlify.app/)
 
 <!-- 
+### Hi there, I'm Shaun 👋
+
 **ShaunBillows/ShaunBillows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
