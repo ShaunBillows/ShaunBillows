@@ -1,4 +1,6 @@
-## Hi there 👋, I'm Shaun
+## Hi there 👋, 
+
+I'm Shaun Billows
 
 * 🌱 I’m currently learning **Everything**
 
