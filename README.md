@@ -1,8 +1,8 @@
 ### Hi there, I'm Shaun 👋
 
-* 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Everything**
 
-* 🔥 Check out [my first full stack application](https://trade-war-z.netlify.app/)
+- 🔥 Check out [My First Full Stack Application](https://trade-war-z.netlify.app/)
 
 <!-- 
 **ShaunBillows/ShaunBillows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
