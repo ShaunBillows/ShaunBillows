@@ -6,6 +6,8 @@ I'm Shaun Billows.
 
 * 🔥 Check out [My First Full Stack Application](https://trade-war-z.netlify.app/)
 
+* 📫 How to reach me: billows.shaun@gmail.com
+
 <!-- 
 ### Hi there, I'm Shaun 👋
 
