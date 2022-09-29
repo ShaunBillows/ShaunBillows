@@ -1,4 +1,4 @@
-# Hi there, I'm Shaun 👋
+## Hi there 👋, I'm Shaun
 
 * 🌱 I’m currently learning **Everything**
 
