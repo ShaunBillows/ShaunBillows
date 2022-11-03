@@ -4,8 +4,6 @@ I'm Shaun Billows, a software developer.
 
 * 🌱 I’m currently learning **Everything**
 
-* 🔥 Check out **[My First Full Stack Application](https://trade-war-z.netlify.app/)**
-
 * 📫 How to reach me: **billows.shaun@gmail.com**
 
 <!-- 
