@@ -2,7 +2,7 @@
 
 I'm Shaun Billows, I'm a software developer.
 
-* 🌱 I’m currently learning **Everything**
+* 🌱 I’m currently learning **GraphQL**
 
 * 📫 How to reach me: **billows.shaun@gmail.com**
 
